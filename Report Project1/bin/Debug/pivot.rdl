@@ -262,6 +262,18 @@ group by City_1.City, Dimension.Employee.Employee, Fact.Sale.[Total Excluding Ta
               </Border>
             </Style>
           </Tablix>
+          <Line Name="Line1">
+            <Top>1.63833in</Top>
+            <Left>6.48in</Left>
+            <Height>0in</Height>
+            <Width>-6.48in</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>Solid</Style>
+              </Border>
+            </Style>
+          </Line>
         </ReportItems>
         <Height>2in</Height>
         <Style />
